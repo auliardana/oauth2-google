@@ -19,6 +19,10 @@ This project demonstrates a simple implementation of OAuth2 authentication using
 - Google Cloud Project with OAuth2 credentials (https://console.cloud.google.com/apis/credentials )
 - `godotenv` library to manage environment variables
 
+## setup cloud project 
+![Create credentials oAuth client ID](images/pict1.pngpng)
+![select application type and application name](images/pict2.png)
+![add uri](images/pict3.png)
 ## Getting Started
 
 1. **Clone the Repository**
